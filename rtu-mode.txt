@@ -1,0 +1,25 @@
+[PortB:] 
+[PortA:]ATE1+CSQ;+CREG
+[PortB:]A
+[PortA:]?  
+[PortB:]TE0+CSQ;+CREG?    +CSQ: 31,99    +CREG: 0,5    OK  
+[PortA:]AT+WOPEN=1  
+[PortB:]  OK  
+[PortA:]AT+WIPCFG=1  
+[PortB:]  OK  
+[PortA:]AT+WIPCFG=2,12,1  
+[PortB:]  OK  
+[PortA:]AT+WIPBR=1,6  
+[PortB:]  OK  
+[PortA:]AT+WIPBR=2,6,11,"CMNET"  
+[PortB:]  OK  
+[PortA:]AT+WIPBR=4,6,0  
+[PortB:]  OK  
+[PortA:]AT+WIPCREATE=1,1,16019,"118.194.243.090",16019  
+[PortB:]  OK    +WIPREADY: 1,1  
+[PortA:]AT+WIPDATA=1,1,2  
+[PortB:]  CONNECT  
+[PortA:]68 13 68 B1 00 12 34 56 79 C0 30 32 00 00 0C 00 00 14 21 15 02 00 1F 16 
+[PortB:]68 08 68 30 00 12 34 56 79 C0 00 BD 16 68 07 68 30 00 12 34 56 79 50 F5 16 
+[PortA:]68 0C 68 B0 00 12 34 56 79 50 00 12 34 56 79 E0 16 
+[PortB:] 
