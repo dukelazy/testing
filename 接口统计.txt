@@ -1,0 +1,36 @@
+220V供电口
+5V供电口
+USB1
+
+USB2
+USB3
+WLAN
+HDMI
+ttl口(Debugging serial)
+GPIO
+SPI
+Arduino Port
+
+
+P1灯
+P2
+P3
+
+重启
+android Home
+Android 按钮2
+Android 按钮3
+另外一个不知道是什么按钮
+
+电源开关
+风扇开关
+风扇口
+
+
+
+
+
+四块硬盘
+
+
+
