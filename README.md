@@ -21,6 +21,7 @@ private static int SeqNo(RtuInfo rtu, int no)
             }
         }
     }
+
     if (FindOk)
         return i * 10;
     else
