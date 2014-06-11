@@ -1,7 +1,9 @@
 # Pcduino #
 ============================================================
 
-```private static int SeqNo(RtuInfo rtu, int no)
+```c#
+
+private static int SeqNo(RtuInfo rtu, int no)
 {
     int i;
     int k = 0;
@@ -23,8 +25,8 @@
         return i * 10;
     else
         return 99;
-
 }
+
 ```
 
 ### Introduction ###
