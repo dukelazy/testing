@@ -45,9 +45,6 @@ private static int SeqNo(RtuInfo rtu, int no)
 
 ## will ##
 
-1. 阿斯顿飞
-2. 阿斯发
-
 ----------
 
 2014-06-11 13:29:44 
@@ -67,3 +64,10 @@ I get 10 times more traffic from [Google][] than from
 [google]: http://google.com/        "Google"
 [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
 [msn]:    http://search.msn.com/    "MSN Search"
+
+##*参考资料*##
+
+*[1\].  ^Google.[分析北京屏蔽原因][1].谷歌中国.2013-09-14.*  
+*[1\].  ^Google.[分析北京屏蔽原因].谷歌中国.2013-09-14.*
+
+[1]: http://www.google.com/        "Google.[分析北京屏蔽原因].谷歌中国.2013-09-14."
